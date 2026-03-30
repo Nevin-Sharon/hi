@@ -49,7 +49,7 @@ body::after {
 }
 
 .subline {
-  font-family: 'Cormorant Garamond';
+     font-family: 'Cormorant Garamond' !important;
   font-style: italic;
   margin-top: 160px;
   padding: 0px;
@@ -57,21 +57,21 @@ body::after {
 }
 
 .subline-1 {
-  font-family: 'Cormorant Garamond';
+     font-family: 'Cormorant Garamond' !important;
   margin: 0px;padding: 0px;
   font-style: italic;
   margin-bottom: 10px;
 }
 
 .subline-2 {
-     font-family: 'Cormorant Garamond';
+     font-family: 'Cormorant Garamond' !important;
     font-style: italic;
     margin-bottom: 0px;
     padding-bottom: 0px;
 }
 
 .subline-3 {
-     font-family: 'Cormorant Garamond';
+     font-family: 'Cormorant Garamond' !important;
     font-style: italic;
     margin-bottom: 50px;
     margin-top: 0px;
