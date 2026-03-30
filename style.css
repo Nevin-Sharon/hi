@@ -49,33 +49,33 @@ body::after {
 }
 
 .subline {
-     font-family: 'Cormorant Garamond' !important;
-  font-style: italic;
+  font-family: 'Cormorant Garamond' !important;
+  font-style: italic  !important;
   margin-top: 160px;
   padding: 0px;
   margin-bottom: 0px;
 }
 
 .subline-1 {
-     font-family: 'Cormorant Garamond' !important;
+  font-family: 'Cormorant Garamond' !important;
   margin: 0px;padding: 0px;
-  font-style: italic;
+  font-style: italic !important;
   margin-bottom: 10px;
 }
 
 .subline-2 {
-     font-family: 'Cormorant Garamond' !important;
-    font-style: italic;
-    margin-bottom: 0px;
-    padding-bottom: 0px;
+    font-family: 'Cormorant Garamond' !important;
+    font-style: italic !important;
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
 }
 
 .subline-3 {
-     font-family: 'Cormorant Garamond' !important;
-    font-style: italic;
+    font-family: 'Cormorant Garamond' !important;
+    font-style: italic !important;
     margin-bottom: 50px;
-    margin-top: 0px;
-    padding-top: 0px;
+    margin-top: 0px !important;
+    padding-top: 0px !important;
 }
 
 
