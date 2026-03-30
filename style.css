@@ -52,12 +52,33 @@ body::after {
   font-family: 'Cormorant Garamond';
   font-style: italic;
   margin-top: 160px;
+  padding: 0px;
+  margin-bottom: 0px;
 }
+
+.subline-1 {
+  font-family: 'Cormorant Garamond';
+  margin: 0px;padding: 0px;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
 .subline-2 {
      font-family: 'Cormorant Garamond';
     font-style: italic;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
 }
+
+.subline-3 {
+     font-family: 'Cormorant Garamond';
+    font-style: italic;
+    margin-bottom: 50px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+
 .intro-msg {
   font-family: 'Tangerine';
   font-size: 28px;
